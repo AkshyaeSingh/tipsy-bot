@@ -1,0 +1,11 @@
+langchain==0.1.16
+langchain-community==0.0.32
+langchain-core==0.1.45
+openai==1.30.1          # Needed if using GPT instead of Claude
+anthropic==0.21.3       # For Claude API access
+requests==2.31.0        # For calling n8n webhooks and Supabase
+python-dotenv==1.0.1    # For loading environment variables
+supabase==1.0.3         # Supabase Python client (or use PostgREST with requests)
+tqdm==4.66.4            # Optional: progress bar
+uvicorn==0.29.0         # Optional: if serving as an API
+fastapi==0.111.0        # Optional: web server for chat endpoint
