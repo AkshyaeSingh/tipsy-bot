@@ -3,7 +3,7 @@
 
 A fully autonomous Claude-powered software agent that can chat with users, take drink orders, run bar operations, manage inventory, log analytics, and simulate a complete bar business. Built as a testbed for autonomous AI, tool use, business orchestration, and AI safety research.
 
-> "A bartender that remembers your favorite drink, charges your tab, restocks itself, and runs weekly revenue reports—all autonomously."
+> "A bartender that remembers your favorite drink, charges your tab, restocks itself, and runs weekly revenue reports—all autonomously. It also has a silly sense of humor."
 
 ---
 
